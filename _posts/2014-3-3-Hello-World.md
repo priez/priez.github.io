@@ -9,6 +9,6 @@ the set of all permutations.
 
 # Bases
 
-## Fundamental $\mathbf{F}_\sigma$-basis
+## Fundamental \\(\mathbf{F}_\sigma \\)-basis
 
 ...
