@@ -12,3 +12,15 @@ the set of all permutations.
 ## Fundamental \\(\mathbf{F}_\sigma \\)-basis
 
 ...
+
+## Fundamental dual \\(\mathbf{G}_\sigma \\)-basis
+
+...
+
+## Homogeneous \\(\mathbf{H}_\sigma \\)-basis
+
+...
+
+## Elementary \\(\mathbf{E}_\sigma \\)-basis
+
+...
